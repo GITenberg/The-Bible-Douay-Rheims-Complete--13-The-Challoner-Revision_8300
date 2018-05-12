@@ -1,11 +1,16 @@
 _repo: The-Bible-Douay-Rheims-Complete--13-The-Challoner-Revision_8300
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: "Complete (vol I-III). See also Complete version (vol I-III with Appendices)\
   \ PG#1581 and OT (vol I) PG#1609 and OT (vol II) PG#1610 and NT (vol III) PG#1582\r\
   \n\r\nHTML file 8300-00h.htm is a Table of Contents linking to the individual Books,\
   \ while 8300-h.zip includes the Table of Contents, plus all the individual Books,\r\
   \nzipped together.\r\n\r\nThe plain text files (etext05/drb*) contain the entire\
   \ Bible in one large file, rather than separate files for each Book."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8300#The-Bible-Douay-Rheims-Complete--13-The-Challoner-Revision
 edition_note: Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610,
   New Testament 1582). The Whole Revised and Diligently Compared with the Latin Vulgate
   by Bishop Richard Challoner A.D. 1749-1752
